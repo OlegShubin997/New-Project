@@ -1,0 +1,47 @@
+@import url('./layout/fonts.css');
+@import url('./layout/normalize.css');
+@import url('./layout/base.css');
+
+/*Main Page*/
+
+@import url('./blocks/Main/header.css');
+@import url('./blocks/Main/logo.css');
+@import url('./blocks/Main/button-one.css');
+@import url('./blocks/Main/button-two.css');
+@import url('./blocks/Main/button-three.css');
+@import url('./blocks/Main/background-main.css');
+@import url('./blocks/Main/logo.css');
+@import url('./blocks/Main/hero.css');
+@import url('./blocks/Main/offers.css');
+@import url('./blocks/Main/news.css');
+@import url('./blocks/Main/paginator.css');
+@import url('./blocks/Main/about.css');
+@import url('./blocks/Main/footer.css');
+@import url('./blocks/Main/socials.css');
+@import url('./blocks/Main/dropdown.css');
+
+/*Service Page*/
+
+@import url('./blocks/Page-Services/top-line.css');
+@import url('./blocks/Page-Services/services.css');
+@import url('./blocks/Page-Services/page-content.css');
+@import url('./blocks/Page-Services/breadcrumbs.css');
+@import url('./blocks/Page-Services/button-service.css');
+@import url('./blocks/Page-Services/inner-section.css');
+@import url('./blocks/Page-Services/paginator-service.css');
+@import url('./blocks/Page-Services/partners-service.css');
+@import url('./blocks/Page-Services/footer-services.css');
+
+/*Reviews Page*/
+
+@import url('./blocks/Reviews-Page/reviews.css');
+@import url('./blocks/Reviews-Page/controls.css');
+@import url('./blocks/Reviews-Page/forms.css');
+@import url('./blocks/Reviews-Page/separator.css');
+@import url('./blocks/Reviews-Page/tags.css');
+
+/*Welcome Page*/
+
+@import url('./blocks/Welcome-Page/welcome.css');
+@import url('./blocks/Welcome-Page/central.css');
+@import url('./blocks/Welcome-Page/animation-welcome.css');

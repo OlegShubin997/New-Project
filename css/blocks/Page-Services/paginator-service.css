@@ -1,0 +1,13 @@
+.paginator--service--theme {
+    margin-bottom: 0px;
+}
+
+.paginator--service--theme .paginator__item--active .paginator__link {
+    background: #F5170E;
+    color: #fff;
+}
+
+.paginator--service--theme .paginator__link:hover {
+    background: #F5170E;
+    color: #fff;
+}

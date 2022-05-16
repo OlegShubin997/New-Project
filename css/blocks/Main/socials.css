@@ -1,0 +1,57 @@
+.social__item {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+
+.socials {
+    margin-right: 75px;
+}
+
+.social__item:last-child {
+    margin-right: 0;
+}
+
+.social__link {
+    display: block;
+    width: 36px;
+    height: 36px;
+    text-decoration: none;
+    background: center center no-repeat;
+}
+
+.social__item--icon--telegram .social__link {
+    background-image: url("/New-Project/image/t-one.png");
+}
+      
+.social__item--icon--telegram .social__link:hover {
+    background-image: url("/New-Project/image/t-two.png");
+}
+  
+.social__item--icon--vk .social__link {
+    background-image: url("/New-Project/image/vk-one.png");
+}
+      
+.social__item--icon--vk .social__link:hover {
+    background-image: url("/New-Project/image/vk-two.png");
+}
+      
+.social__item--icon--facebook .social__link {
+    background-image: url("/New-Project/image/f-one.png");
+}
+      
+.social__item--icon--facebook .social__link:hover {
+    background-image: url("/New-Project/image/f-two.png");
+}
+      
+.social__item--icon--instagram .social__link {
+    background-image: url("/New-Project/image/in-one.png");
+}
+      
+.social__item--icon--instagram .social__link:hover {
+    background-image: url("/New-Project/image/in-two.png");
+}
+
+.social__item:last-child {
+    margin-bottom: 0;
+}

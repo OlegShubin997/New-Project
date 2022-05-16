@@ -1,0 +1,23 @@
+.central {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    opacity: 0;
+    animation: scale 1s 1s;
+    animation-fill-mode: forwards;
+}
+
+.central__bg {
+    min-width: 591px;
+    min-height: 248px;
+    background: url(/New-Project/image/shades.png) center top -30px / cover no-repeat;
+}
+
+.hero__subtitle-central {
+    margin-bottom: 45px;
+}
+
+.btn__central {
+    position: relative;
+    padding: 18px 58px;
+}
